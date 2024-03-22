@@ -1,0 +1,17 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.adapterTargetName": "esp32",
+    "idf.customExtraPaths": "/home/mmajews2/.espressif/tools/xtensa-esp-elf-gdb/12.1_20231023/xtensa-esp-elf-gdb/bin:/home/mmajews2/.espressif/tools/riscv32-esp-elf-gdb/12.1_20231023/riscv32-esp-elf-gdb/bin:/home/mmajews2/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20240305/xtensa-esp-elf/bin:/home/mmajews2/.espressif/tools/riscv32-esp-elf/esp-13.2.0_20240305/riscv32-esp-elf/bin:/home/mmajews2/.espressif/tools/esp32ulp-elf/2.35_20220830/esp32ulp-elf/bin:/home/mmajews2/.espressif/tools/openocd-esp32/v0.12.0-esp32-20230921/openocd-esp32/bin:/home/mmajews2/.espressif/tools/ninja/1.11.1:/home/mmajews2/.espressif/tools/esp-rom-elfs/20240305",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "/home/mmajews2/.espressif/tools/openocd-esp32/v0.12.0-esp32-20230921/openocd-esp32/share/openocd/scripts",
+        "ESP_ROM_ELF_DIR": "/home/mmajews2/.espressif/tools/esp-rom-elfs/20240305/"
+    },
+    "idf.espIdfPath": "/home/mmajews2/esp-idf",
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "target/esp32.cfg"
+    ],
+    "idf.port": "/dev/ttyUSB0",
+    "idf.pythonBinPath": "python",
+    "idf.toolsPath": "/home/mmajews2/.espressif"
+}
